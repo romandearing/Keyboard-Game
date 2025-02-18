@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #1e1e1e;
+    color: white;
+}
+
+.game-container {
+    margin-top: 100px;
+}
+
+.game {
+    font-size: 50px;
+    font-weight: bold;
+    margin: 20px;
+}
+
+h2 {
+    font-size: 100px;
+    margin: 20px;
+}
+
+#score, #lives {
+    font-weight: bold;
+    color: yellow;
+}
